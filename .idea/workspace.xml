@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80868771-77fb-44fd-ba6c-afb562dfcb26" name="Changes" comment="Created bulk program, might tweak I dunno" />
+    <list default="true" id="80868771-77fb-44fd-ba6c-afb562dfcb26" name="Changes" comment="made some tweaks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,7 @@
       <updated>1713197495910</updated>
       <workItem from="1713197497071" duration="193000" />
       <workItem from="1713198525039" duration="964000" />
-      <workItem from="1713201446314" duration="2188000" />
+      <workItem from="1713201446314" duration="2466000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -71,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713205001454</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made some tweaks">
+      <option name="closed" value="true" />
+      <created>1713205474798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713205474798</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +88,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Created bulk program, might tweak I dunno" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created bulk program, might tweak I dunno" />
+    <MESSAGE value="made some tweaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="made some tweaks" />
   </component>
 </project>
