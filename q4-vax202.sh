@@ -29,7 +29,8 @@ outputFile="file1Clean.php" # set output path for cleaned up file
 
 ##### create a sed script to clean up file #####
 
-# sed script to call later (I made it to be mroe readable and to be more "on-brand" with my coding style)
+# sed script to call later (I made it to be mroe readable and to be more "on-brand" with my coding style if want to show
+# to hiring people)
 sedScript='
 
     # replace lines starting with "//" with "// "
